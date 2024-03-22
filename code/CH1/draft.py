@@ -1,1 +1,1 @@
-a = True
+print([] == None)
