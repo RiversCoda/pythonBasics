@@ -1,3 +1,6 @@
 *.docx
 *.doc
 *draft*
+draft.*
+*draft
+draft*
