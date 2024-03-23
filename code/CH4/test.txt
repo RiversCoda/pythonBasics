@@ -1,0 +1,9 @@
+: Building extraction from high-resolution remote sensing images is of great significance in
+urban planning, population statistics, and economic forecast. However, automatic building extraction
+from high-resolution remote sensing images remains challenging. On the one hand, the extraction
+results of buildings are partially missing and incomplete due to the variation of hue and texture
+within a building, especially when the building size is large. On the other hand, the building
+footprint extraction of buildings with complex shapes is often inaccurate. To this end, we propose
+a new deep learning network, termed Building Residual Refine Network (BRRNet), for accurate
+and complete building extraction. BRRNet consists of such two parts as the prediction module and
+the residual refinement module. The prediction module based on an encoder–decoder structure
