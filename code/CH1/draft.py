@@ -1,2 +1,3 @@
-s = [0] * 10
-print(s)
+a = set()
+a.add(1)
+print(a)
